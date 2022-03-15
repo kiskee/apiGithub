@@ -22,7 +22,7 @@ error_reporting(0);
 <header >
 <nav class="navbar navbar-expand-lg navbar-dark bg-primary">
   <div class="container-fluid">
-  <h4 class="float-left text-white text-warning"></h4>
+  <h4 class="float-left text-white text-secondary">GitHub</h4>
     <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarColor01" aria-controls="navbarColor01" aria-expanded="false" aria-label="Toggle navigation">
       <span class="navbar-toggler-icon"></span>
     </button>

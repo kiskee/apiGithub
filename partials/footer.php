@@ -14,7 +14,7 @@
   
 </nav>
   <!-- Copyright -->
-  <div class="text-center p-3 bg-danger">
+  <div class="text-center p-3 bg-primary text-white">
     © 2022 Copyright:
     <a class="text-white" href="https://github.com/kiskee">a Kiskee production</a>
   </div>
